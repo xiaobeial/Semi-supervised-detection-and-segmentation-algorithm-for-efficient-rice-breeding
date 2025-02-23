@@ -28,6 +28,20 @@ python train_net.py --eval-only --num-gpus 8 --config-file configs/coco/instance
 ## About pre-training weights and data
 * We provide our pre-training model and data, in the link below:
   https://pan.baidu.com/s/1RzHCeRquUYjjVn_ngwnxJg?pwd=5qkj   code：5qkj
+## Citaton
+If you find these models useful for your research, please cite the relevant papers
+```
+@article {
+author = {Yihong Hu，, Ling Xiong，, Xingwang Li, Peiyi Yu,Changrong Ye, Gaofeng Jia, Bingchuan Tian},
+title = {Enhancing Rice Breeding Efficiency through Semi-Supervised Detection and Segmentation of Panicles and Leaves},
+elocation-id = { },
+year = {2025},
+doi = { },
+publisher = {Springer Nature},
+URL = { },
+eprint = { },
+journal = {The Visual Computer}
+```
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
