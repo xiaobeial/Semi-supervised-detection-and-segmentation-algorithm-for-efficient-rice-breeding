@@ -1,6 +1,13 @@
 # NewDINOR: Enhancing Rice Breeding via Semi-Supervised Panicle & Leaf Analysis
-
+This GitHub repository contains the source code and test data for reproducing the experiments in the paper titled "Enhancing Rice Breeding Efficiency through Semi-Supervised Detection and Segmentation of Panicles and Leaves". The research was funded by the Biological Breeding-National Science and Technology Major Project (2023ZD04076). The paper is currently submitted to The Visual Computer. We commit to providing complete training datasets with corresponding annotations for non-commercial users after official publication, in order to promote agricultural development and facilitate further research in this field.
+Funded by the Biological Breeding - National Science and Technology Major Project (No.2023ZD04076)
 ![image](https://github.com/xiaobeial/Semi-supervised-detection-and-segmentation-algorithm-for-efficient-rice-breeding/blob/main/img_demo_output/crop0_5x_20230607_c1_5x_DJI_20230607093538_0008_Z.jpg)
+## Overview
+
+In the field of rice breeding, enhancing crop yield and quality is paramount. This study focuses on critical factors that directly influence yield, specifically the number of rice panicles and leaf width. We hypothesize that an increase in panicle count and leaf width area positively correlates with photosynthetic efficiency, significantly impacting final crop yield. Guided by this rationale, we aim to evaluate and select rice varieties exhibiting desirable phenotypes through targeted detection techniques. We employ an enhanced DINO (self-DIstillation with NO labels) model for detecting and segmenting rice panicles and leaves. The upstream task of our model functions as an unsupervised general feature extractor, capable of learning rich visual features from a substantial dataset of unlabeled rice images. The downstream task comprises two branches: detecting the number of rice panicles and segmenting leaf areas. By synergizing these branches, we accurately assess the photosynthetic potential and reproductive capacity of rice plants. Experimental results demonstrate that our model achieves superior performance in both rice panicle detection and leaf area segmentation tasks, exhibiting higher accuracy and robustness. Additionally, our model operates stably under varying environmental conditions, showcasing significant application value for practical rice breeding. By precisely evaluating panicle count and leaf width, our model facilitates the selection of varieties with high photosynthetic efficiency and yield potential, contributing positively to sustainable agricultural development.
+
+
+
 ## Getting Started
 
 * To begin, install our code dependencies using Conda. You may need to adjust the file based on your setup:
