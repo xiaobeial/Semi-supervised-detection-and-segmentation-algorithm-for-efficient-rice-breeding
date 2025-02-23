@@ -1,6 +1,7 @@
 # NewDINOR: Enhancing Rice Breeding via Semi-Supervised Panicle & Leaf Analysis
 This GitHub repository contains the source code and test data for reproducing the experiments in the paper titled "Enhancing Rice Breeding Efficiency through Semi-Supervised Detection and Segmentation of Panicles and Leaves". The research was funded by the Biological Breeding-National Science and Technology Major Project (2023ZD04076). The paper is currently submitted to The Visual Computer. We commit to providing complete training datasets with corresponding annotations for non-commercial users after official publication, in order to promote agricultural development and facilitate further research in this field.
 Funded by the Biological Breeding - National Science and Technology Major Project (No.2023ZD04076)
+
 ![image](https://github.com/xiaobeial/Semi-supervised-detection-and-segmentation-algorithm-for-efficient-rice-breeding/blob/main/img_demo_output/crop0_5x_20230607_c1_5x_DJI_20230607093538_0008_Z.jpg)
 ## Overview
 
