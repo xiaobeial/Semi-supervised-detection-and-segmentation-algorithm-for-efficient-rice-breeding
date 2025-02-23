@@ -1,4 +1,4 @@
-# Enhancing Rice Breeding Efficiency through Semi-Supervised Detection and Segmentation of Panicles and Leaves
+# NewDINOR: Enhancing Rice Breeding via Semi-Supervised Panicle & Leaf Analysis
 ![image](https://github.com/xiaobeial/Semi-supervised-detection-and-segmentation-algorithm-for-efficient-rice-breeding/blob/main/img_demo_output/crop0_5x_20230607_c1_5x_DJI_20230607093538_0008_Z.jpg)
 ## Getting Started
 
