@@ -55,6 +55,6 @@ eprint = { },
 journal = {The Visual Computer}
 ```
 ## 有问题反馈
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+If you have any questions during use, please feel free to give me feedback. You can use the following contact information to communicate with me
 
-* 邮件(202270294116@hunnu.edu.cn)
+* email(202270294116@hunnu.edu.cn)
