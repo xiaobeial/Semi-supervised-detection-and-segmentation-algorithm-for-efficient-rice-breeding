@@ -25,6 +25,9 @@ python train_net.py --eval-only --num-gpus 8 --config-file config_path MODEL.WEI
 ```
 python train_net.py --eval-only --num-gpus 8 --config-file configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml MODEL.WEIGHTS /path/to/checkpoint_file
 ```
+## About pre-training weights and data
+* We provide our pre-training model and data, in the link below:
+  https://pan.baidu.com/s/1RzHCeRquUYjjVn_ngwnxJg?pwd=5qkj   code：5qkj
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
